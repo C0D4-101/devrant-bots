@@ -1,0 +1,79 @@
+[
+    {
+        "id": 2172882,
+        "name": "highlight",
+        "description": "A bot that can turn any comment into an image with nice syntax highlighting",
+        "profile": "https://devrant.com/users/highlight",
+        "owner": "Skayo"
+    },
+    {
+        "id": 544294,
+        "name": "RandomQuote",
+        "description": "A bot that posts a random quote everyday",
+        "profile": "https://devrant.com/users/RandomQuote",
+        "owner": "Skayo"
+    },
+    {
+        "id": 2925487,
+        "name": "translate",
+        "description": "A bot that can translate almost any rant to english",
+        "profile": "https://devrant.com/users/translate",
+        "owner": "C0D4"
+    },
+    {
+        "id": 2483198,
+        "name": "lmgtfy",
+        "description": "A bot that creates a lmgtfy.com url when mentioned",
+        "profile": "https://devrant.com/users/lmgtfy",
+        "owner": "C0D4"
+    },
+    {
+        "id": 2485191,
+        "name": "lmddgtfy",
+        "description": "A bot that creates a lmddgtfy.com url when mentioned",
+        "profile": "https://devrant.com/users/lmddgtfy",
+        "owner": "C0D4"
+    },
+    {
+        "id": 3076228,
+        "name": "wiki",
+        "description": "A bot that returns a wikipedia url when mentioned",
+        "profile": "https://devrant.com/users/wiki",
+        "owner": "theAbbie"
+    },
+    {
+        "id": 3074900,
+        "name": "memesbot",
+        "description": "A bot that posts a meme when mentioned",
+        "profile": "https://devrant.com/users/memesbot",
+        "owner": "theAbbie"
+    },
+    {
+        "id": 2179093,
+        "name": "here",
+        "description": "A bot that mentions everyone thats commented in a rant",
+        "profile": "https://devrant.com/users/here",
+        "owner": "pseudonim"
+    },
+    {
+        "id": 2066234,
+        "name": "devrant-stats",
+        "description": "A bot that collects data for anytical reasons",
+        "profile": "https://devrant.com/users/devrant-stats",
+        "owner": "xzvf"
+    },
+    {
+        "id": 2186854,
+        "name": "RemindMe",
+        "description": "A bot that schedules a reminder for you",
+        "profile": "https://devrant.com/users/RemindMe",
+        "owner": "HampusMa"
+    },
+    {
+        "id": 2162694,
+        "name": "devDNS",
+        "description": "A bot that does a DNS lookup for a specified domain",
+        "profile": "https://devrant.com/users/devDNS",
+        "owner": "ewpratten"
+    }
+]

@@ -11,7 +11,7 @@ This repo is used to track the known utility bots of [devRant](https://www.devRa
 |  RandomQuote   | A bot that posts a random quote everyday                                        | Skayo       | https://devrant.com/users/RandomQuote   |
 |  translate     | A bot that can translate almost any rant to english                             | C0D4        | https://devrant.com/users/translate     |
 |  lmgtfy        | A bot that creates a lmgtfy.com url when mentioned                              | C0D4        | https://devrant.com/users/lmgtfy        |
-|  lmddgtfy      | A bot that creates a lmddgtfy.com url when mentioned                            | C0D4        | https://devrant.com/users/lmddgtfy      |
+|  lmddgtfy      | A bot that creates a lmddgtfy.net url when mentioned                            | C0D4        | https://devrant.com/users/lmddgtfy      |
 |  wiki          | A bot that returns a wikipedia url when mentioned                               | theabbie    | https://devrant.com/users/wiki          |
 |  memesbot      | A bot that posts a meme when mentioned                                          | theabbie    | https://devrant.com/users/memesbot      |
 |  here          | A bot that mentions everyone thats commented in a rant                          | pseudonim   | https://devrant.com/users/here          |

@@ -3,7 +3,7 @@ id,name,description,profile,owner
 544294,RandomQuote,A bot that posts a random quote everyday,https://devrant.com/users/RandomQuote,Skayo
 2925487,translate,A bot that can translate almost any rant to english,https://devrant.com/users/translate,C0D4
 2483198,lmgtfy,A bot that creates a lmgtfy.com url when mentioned,https://devrant.com/users/lmgtfy,C0D4
-2485191,lmddgtfy,A bot that creates a lmddgtfy.com url when mentioned,https://devrant.com/users/lmddgtfy,C0D4
+2485191,lmddgtfy,A bot that creates a lmddgtfy.net url when mentioned,https://devrant.com/users/lmddgtfy,C0D4
 3076228,wiki,A bot that returns a wikipedia url when mentioned,https://devrant.com/users/wiki,theAbbie
 3074900,memesbot,A bot that posts a meme when mentioned,https://devrant.com/users/memesbot,theAbbie
 2179093,here,A bot that mentions everyone thats commented in a rant,https://devrant.com/users/here,pseudonim

@@ -23,8 +23,10 @@ This repo is used to track the known utility bots of [devRant](https://www.devRa
 
 ## Fetchable JSON
 
-[Download JSON](bots.json)
+- [Download JSON](bots.json)
 
 ## Fetchable CSV
 
-[Download CSV](bots.csv)
+- [Download CSV](bots.csv)
+- [Download CSV with Names Only](https://gist.github.com/C0D4-101/f1a50ad4ecf0730550acf8d5d383f63f)
+

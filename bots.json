@@ -82,5 +82,12 @@
         "description": "A bot that does a DNS lookup for a specified domain",
         "profile": "https://devrant.com/users/devDNS",
         "owner": "ewpratten"
+    },
+    {
+        "id": 3972551,
+        "name": "Karlson",
+        "description": "A bot by Eklavya",
+        "profile": "https://devrant.com/users/Karlson",
+        "owner": "Eklavya"
     }
 ]

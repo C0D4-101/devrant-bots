@@ -19,7 +19,7 @@ This repo is used to track the known utility bots of [devRant](https://www.devRa
 |  devrant-stats | A bot that collects data for anytical reasons                                   | xzvf        | https://devrant.com/users/devrant-stats |
 |  RemindMe      | A bot that schedules a reminder for you                                         | HampusMa    | https://devrant.com/users/RemindMe      |
 |  devDNS        | A bot that does a DNS lookup for a specified domain                             | ewpratten   | https://devrant.com/users/devDNS        |
-|  Karlson       | A bot that that posts rant/joke everyday                                        | Eklavya     | https://devrant.com/users/Karlson       |
+|  Karlson       | A bot that posts rant/joke everyday                                             | Eklavya     | https://devrant.com/users/Karlson       |
 
 
 

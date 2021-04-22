@@ -15,7 +15,7 @@ This repo is used to track the known utility bots of [devRant](https://www.devRa
 |  wiki          | A bot that returns a wikipedia url when mentioned                               | theabbie    | https://devrant.com/users/wiki          |
 |  memesbot      | A bot that posts a meme when mentioned                                          | theabbie    | https://devrant.com/users/memesbot      |
 |  trivia        | A bot that asks trivia questions                                                | theabbie    | https://devrant.com/users/trivia        |
-|  here          | A bot that mentions everyone thats commented in a rant                          | pseudonim   | https://devrant.com/users/here          |
+|  here          | A bot that mentions everyone thats commented in a rant                          | Skayo       | https://devrant.com/users/here          |
 |  devrant-stats | A bot that collects data for anytical reasons                                   | xzvf        | https://devrant.com/users/devrant-stats |
 |  RemindMe      | A bot that schedules a reminder for you                                         | HampusMa    | https://devrant.com/users/RemindMe      |
 |  devDNS        | A bot that does a DNS lookup for a specified domain                             | ewpratten   | https://devrant.com/users/devDNS        |

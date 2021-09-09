@@ -84,10 +84,17 @@
         "owner": "ewpratten"
     },
     {
-        "id": 3972551,
+        "id": 4141362,
         "name": "Karlson",
-        "description": "A bot that posts rant/joke everyday",
+        "description": "A bot that posts a joke everyday",
         "profile": "https://devrant.com/users/Karlson",
         "owner": "Eklavya"
+    },
+    {
+        "id": 4671431,
+        "name": "dRCM",
+        "description": "A bot for dR Community Matrix",
+        "profile": "https://devrant.com/users/dRCM",
+        "owner": "vintprox"
     }
 ]

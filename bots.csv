@@ -13,4 +13,4 @@ id,name,description,profile,owner
 2162694,devDNS,A bot that does a DNS lookup for a specified domain,https://devrant.com/users/devDNS,ewpratten
 4141362,Karlson,A bot that posts a joke everyday,https://devrant.com/users/Karlson,Eklavya
 4671431,dRCM,A bot for dR Community Matrix,https://devrant.com/users/dRCM,vintprox
-6424143,chatgpt,A bot for dR Community Matrix,https://devrant.com/users/chatgpt,netikras
+6424143,chatgpt,A bot for answering question posts using chatgpt,https://devrant.com/users/chatgpt,netikras

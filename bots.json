@@ -96,5 +96,12 @@
         "description": "A bot for dR Community Matrix",
         "profile": "https://devrant.com/users/dRCM",
         "owner": "vintprox"
+    },
+    {
+        "id": 6424143,
+        "name": "chatgpt",
+        "description": "A bot for answering question posts using chatgpt",
+        "profile": "https://devrant.com/users/chatgpt",
+        "owner": "netikras "
     }
 ]

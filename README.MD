@@ -21,6 +21,7 @@ This repo is used to track the known utility bots of [devRant](https://www.devRa
 |  devDNS        | A bot that does a DNS lookup for a specified domain                             | ewpratten   | https://devrant.com/users/devDNS        |
 |  Karlson       | A bot that posts a joke everyday                                                | Eklavya     | https://devrant.com/users/Karlson       |
 |  dRCM          | A bot for dR Community Matrix                                                   | vintprox    | https://devrant.com/users/dRCM          |
+|  chatgpt       | A bot for answering question posts using chatgpt                                | netikras    | https://devrant.com/users/chatgpt       |
 
 
 
